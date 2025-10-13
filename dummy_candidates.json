@@ -16,7 +16,7 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-20T10:00:00Z",
-          "interviewer": "John Smith",
+          "interviewer": "James Tu",
           "stage": "Technical Screening",
           "status": "Scheduled"
         }
@@ -79,9 +79,9 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-16T11:00:00Z",
-          "interviewer": "Linda Chen",
-          "stage": "Final Interview",
-          "status": "Pending Feedback"
+          "interviewer": "James Tu",
+          "stage": "Technical Screening",
+          "status": "Completed"
         }
       },
       {
@@ -100,7 +100,7 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-24T13:00:00Z",
-          "interviewer": "Frank Wright",
+          "interviewer": "James Tu",
           "stage": "Technical Screening",
           "status": "Scheduled"
         }
@@ -121,7 +121,7 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-09T15:00:00Z",
-          "interviewer": "Grace Hall",
+          "interviewer": "James Tu",
           "stage": "Final Interview",
           "status": "Offer Extended"
         }
@@ -142,8 +142,8 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-27T10:30:00Z",
-          "interviewer": "Bob Johnson",
-          "stage": "Initial Screening",
+          "interviewer": "James Tu",
+          "stage": "Technical Screening",
           "status": "Scheduled"
         }
       },
@@ -163,7 +163,7 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-14T16:00:00Z",
-          "interviewer": "Alice King",
+          "interviewer": "James Tu",
           "stage": "Hiring Manager Interview",
           "status": "Completed"
         }
@@ -184,9 +184,9 @@
         },
         "interviewDetails": {
           "interviewDate": "2025-10-10T11:30:00Z",
-          "interviewer": "John Smith",
+          "interviewer": "James Tu",
           "stage": "Technical Screening",
-          "status": "Rejected"
+          "status": "Scheduled"
         }
       },
       {
@@ -206,7 +206,7 @@
         "interviewDetails": {
           "interviewDate": "2025-10-28T09:00:00Z",
           "interviewer": "Paul Anderson",
-          "stage": "Initial Screening",
+          "stage": "Technical Screening",
           "status": "Scheduled"
         }
       }
