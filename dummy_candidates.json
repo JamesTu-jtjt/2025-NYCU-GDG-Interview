@@ -1,0 +1,214 @@
+{
+    "interviewCandidates": [
+      {
+        "id": "c9b1a2d3-e4f5-6789-0a1b-2c3d4e5f6a7b",
+        "personalInfo": {
+          "firstName": "Jane",
+          "lastName": "Doe",
+          "email": "jane.doe@example.com",
+          "phone": "555-0101"
+        },
+        "professionalProfile": {
+          "positionApplied": "Senior Software Engineer",
+          "yearsOfExperience": 8,
+          "skills": ["Java", "Python", "AWS", "Docker", "Kubernetes"],
+          "education": [{"degree": "Master of Science in Computer Science", "university": "State University", "graduationYear": 2017}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-20T10:00:00Z",
+          "interviewer": "John Smith",
+          "stage": "Technical Screening",
+          "status": "Scheduled"
+        }
+      },
+      {
+        "id": "d1e2f3a4-b5c6-7890-1d2e-3f4a5b6c7d8e",
+        "personalInfo": {
+          "firstName": "Alex",
+          "lastName": "Ray",
+          "email": "alex.ray@example.com",
+          "phone": "555-0102"
+        },
+        "professionalProfile": {
+          "positionApplied": "Product Manager",
+          "yearsOfExperience": 5,
+          "skills": ["Product Roadmapping", "Agile Methodologies", "JIRA", "Market Research"],
+          "education": [{"degree": "Bachelor of Business Administration", "university": "Metropolitan College", "graduationYear": 2020}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-22T14:30:00Z",
+          "interviewer": "Emily White",
+          "stage": "Hiring Manager Interview",
+          "status": "Scheduled"
+        }
+      },
+      {
+        "id": "e9f8a7b6-c5d4-3210-9e8f-7a6b5c4d3e2f",
+        "personalInfo": {
+          "firstName": "Sam",
+          "lastName": "Jones",
+          "email": "sam.jones@example.com",
+          "phone": "555-0103"
+        },
+        "professionalProfile": {
+          "positionApplied": "UX/UI Designer",
+          "yearsOfExperience": 3,
+          "skills": ["Figma", "Adobe XD", "User Research", "Wireframing", "Prototyping"],
+          "education": [{"degree": "Bachelor of Fine Arts in Graphic Design", "university": "Art & Design Institute", "graduationYear": 2022}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-15T09:00:00Z",
+          "interviewer": "Chris Green",
+          "stage": "Portfolio Review",
+          "status": "Completed"
+        }
+      },
+      {
+        "id": "f7a6b5c4-d3e2-1098-7f6e-5d4c3b2a1098",
+        "personalInfo": {
+          "firstName": "Maria",
+          "lastName": "Garcia",
+          "email": "maria.garcia@example.com",
+          "phone": "555-0104"
+        },
+        "professionalProfile": {
+          "positionApplied": "Data Scientist",
+          "yearsOfExperience": 6,
+          "skills": ["Python", "R", "SQL", "TensorFlow", "Machine Learning"],
+          "education": [{"degree": "PhD in Statistics", "university": "Tech Research University", "graduationYear": 2019}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-16T11:00:00Z",
+          "interviewer": "Linda Chen",
+          "stage": "Final Interview",
+          "status": "Pending Feedback"
+        }
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-1a2b-3c4d5e6f7a8b",
+        "personalInfo": {
+          "firstName": "David",
+          "lastName": "Miller",
+          "email": "david.miller@example.com",
+          "phone": "555-0105"
+        },
+        "professionalProfile": {
+          "positionApplied": "DevOps Engineer",
+          "yearsOfExperience": 7,
+          "skills": ["CI/CD", "Jenkins", "Ansible", "Terraform", "Google Cloud Platform"],
+          "education": [{"degree": "Bachelor of Science in Information Technology", "university": "Online Tech Institute", "graduationYear": 2018}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-24T13:00:00Z",
+          "interviewer": "Frank Wright",
+          "stage": "Technical Screening",
+          "status": "Scheduled"
+        }
+      },
+      {
+        "id": "b2c3d4e5-f6a7-8901-2b3c-4d5e6f7a8b9c",
+        "personalInfo": {
+          "firstName": "Olivia",
+          "lastName": "Wilson",
+          "email": "olivia.wilson@example.com",
+          "phone": "555-0106"
+        },
+        "professionalProfile": {
+          "positionApplied": "Marketing Specialist",
+          "yearsOfExperience": 4,
+          "skills": ["SEO", "SEM", "Content Marketing", "Google Analytics", "Social Media Advertising"],
+          "education": [{"degree": "Bachelor of Arts in Communications", "university": "City College", "graduationYear": 2021}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-09T15:00:00Z",
+          "interviewer": "Grace Hall",
+          "stage": "Final Interview",
+          "status": "Offer Extended"
+        }
+      },
+      {
+        "id": "c3d4e5f6-a7b8-9012-3c4d-5e6f7a8b9c0d",
+        "personalInfo": {
+          "firstName": "Michael",
+          "lastName": "Lee",
+          "email": "michael.lee@example.com",
+          "phone": "555-0107"
+        },
+        "professionalProfile": {
+          "positionApplied": "Junior Software Developer",
+          "yearsOfExperience": 1,
+          "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+          "education": [{"degree": "Bachelor of Science in Computer Science", "university": "Community University", "graduationYear": 2024}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-27T10:30:00Z",
+          "interviewer": "Bob Johnson",
+          "stage": "Initial Screening",
+          "status": "Scheduled"
+        }
+      },
+      {
+        "id": "d4e5f6a7-b8c9-0123-4d5e-6f7a8b9c0d1e",
+        "personalInfo": {
+          "firstName": "Sophia",
+          "lastName": "Taylor",
+          "email": "sophia.taylor@example.com",
+          "phone": "555-0108"
+        },
+        "professionalProfile": {
+          "positionApplied": "Human Resources Generalist",
+          "yearsOfExperience": 5,
+          "skills": ["Recruiting", "Onboarding", "Employee Relations", "HRIS", "Compliance"],
+          "education": [{"degree": "Bachelor of Science in Human Resource Management", "university": "Business School", "graduationYear": 2020}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-14T16:00:00Z",
+          "interviewer": "Alice King",
+          "stage": "Hiring Manager Interview",
+          "status": "Completed"
+        }
+      },
+      {
+        "id": "e5f6a7b8-c9d0-1234-5e6f-7a8b9c0d1e2f",
+        "personalInfo": {
+          "firstName": "James",
+          "lastName": "Brown",
+          "email": "james.brown@example.com",
+          "phone": "555-0109"
+        },
+        "professionalProfile": {
+          "positionApplied": "Quality Assurance Engineer",
+          "yearsOfExperience": 4,
+          "skills": ["Selenium", "JUnit", "Test Automation", "Bug Tracking", "JIRA"],
+          "education": [{"degree": "Associate of Applied Science in Software Development", "university": "Technical College", "graduationYear": 2021}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-10T11:30:00Z",
+          "interviewer": "John Smith",
+          "stage": "Technical Screening",
+          "status": "Rejected"
+        }
+      },
+      {
+        "id": "f6a7b8c9-d0e1-2345-6f7a-8b9c0d1e2f3a",
+        "personalInfo": {
+          "firstName": "Chloe",
+          "lastName": "Martinez",
+          "email": "chloe.martinez@example.com",
+          "phone": "555-0110"
+        },
+        "professionalProfile": {
+          "positionApplied": "Systems Administrator",
+          "yearsOfExperience": 9,
+          "skills": ["Linux", "Windows Server", "Networking", "Bash Scripting", "Virtualization"],
+          "education": [{"degree": "Certifications in Network+ and Security+", "university": "CompTIA", "graduationYear": 2016}]
+        },
+        "interviewDetails": {
+          "interviewDate": "2025-10-28T09:00:00Z",
+          "interviewer": "Paul Anderson",
+          "stage": "Initial Screening",
+          "status": "Scheduled"
+        }
+      }
+    ]
+  }
